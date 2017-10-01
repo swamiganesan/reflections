@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+fc was the command used to compare two files. command 'fc file1 file2' reveals the differences that exist between two files. This will then display linewise differences that exist between the files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Makes it easy to learn faster. Find bugs faster, and improve the code.
