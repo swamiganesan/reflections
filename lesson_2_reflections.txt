@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+makes a .git file and the empty git repo is ready
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+repository is the final stage git - archived directory
+
+staging area is the intermediate section which is populated with files that are ready for a commit
+
+working directory is the directory where all the files reside on the local directory
