@@ -9,3 +9,8 @@ repository is the final stage git - archived directory
 staging area is the intermediate section which is populated with files that are ready for a commit
 
 working directory is the directory where all the files reside on the local directory
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git status should show the files that are in staging area. 
